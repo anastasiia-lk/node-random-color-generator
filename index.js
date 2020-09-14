@@ -53,5 +53,3 @@ console.log(chalk.hex(color)(strHashSpace));
 for (let i = 0; i < 3; i++) {
   console.log(chalk.hex(color)(strHash));
 }
-console.log(userColor);
-console.log(userLuminosity);
